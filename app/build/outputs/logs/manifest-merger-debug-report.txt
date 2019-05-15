@@ -1,0 +1,160 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Christopher jep\AndroidStudioProjects\HealthIsWealthApp\app\src\main\AndroidManifest.xml:3:1-24:12
+INJECTED from C:\Users\Christopher jep\AndroidStudioProjects\HealthIsWealthApp\app\src\main\AndroidManifest.xml:3:1-24:12
+INJECTED from C:\Users\Christopher jep\AndroidStudioProjects\HealthIsWealthApp\app\src\main\AndroidManifest.xml:3:1-24:12
+INJECTED from C:\Users\Christopher jep\AndroidStudioProjects\HealthIsWealthApp\app\src\main\AndroidManifest.xml:3:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Christopher jep\.gradle\caches\transforms-2\files-2.1\480c7beebd550a1c7f079bf434d91063\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Christopher jep\.gradle\caches\transforms-2\files-2.1\3d8f00a9d124d8e5ac0ec9a5cadc649f\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Christopher jep\.gradle\caches\transforms-2\files-2.1\0c411d87b0acca8b71ef0d95cdd15819\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Christopher jep\.gradle\caches\transforms-2\files-2.1\b4f8d52abc31889d8f86d94c93ac2c36\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Christopher jep\.gradle\caches\transforms-2\files-2.1\2b3f7e4f5c87d046dc278524fefc8d6b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Christopher jep\.gradle\caches\transforms-2\files-2.1\bf82249fa7c28888ee258e1565c8c4fb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Christopher jep\.gradle\caches\transforms-2\files-2.1\5bba0161ee47d0f87eb8f61316b178f3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Christopher jep\.gradle\caches\transforms-2\files-2.1\8160680efb218ba6bef3bea305bc1b26\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Christopher jep\.gradle\caches\transforms-2\files-2.1\7d818d5d3dc70baeb72b4b061e11106c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Christopher jep\.gradle\caches\transforms-2\files-2.1\0da0c58730fdd56799108fe7cb1c0cdb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Christopher jep\.gradle\caches\transforms-2\files-2.1\d93c5cb74ad3ea4072a90c3fc6d20532\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Christopher jep\.gradle\caches\transforms-2\files-2.1\34be722f30676ca3c4918ef050401711\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Christopher jep\.gradle\caches\transforms-2\files-2.1\8a375e62e23ef40a2ed62154541a0045\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Christopher jep\.gradle\caches\transforms-2\files-2.1\1005e0e21953cd0b29124c98fb843646\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Christopher jep\.gradle\caches\transforms-2\files-2.1\a447280f5824f9e6dbd91c2d8d559f96\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Christopher jep\.gradle\caches\transforms-2\files-2.1\58a195df22d2d4d06cd8e6e3e2513807\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Christopher jep\.gradle\caches\transforms-2\files-2.1\5d7a17c4ca4e3124d7d7da93ee4d21e1\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Christopher jep\.gradle\caches\transforms-2\files-2.1\7e3370abdb552af66e47e30308ee9b76\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Christopher jep\.gradle\caches\transforms-2\files-2.1\19f81819489522ec92e6bc82dc98098e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Christopher jep\.gradle\caches\transforms-2\files-2.1\1e0dddfe571a7e2f56c8867ef452c688\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Christopher jep\.gradle\caches\transforms-2\files-2.1\4aa4416c2268c1945fec6a91a2c8941b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Christopher jep\.gradle\caches\transforms-2\files-2.1\a2745d8f73ec886e487d7f5a2569175d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Christopher jep\.gradle\caches\transforms-2\files-2.1\3aa6a5e944fe764c52f189c41e6431e4\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Christopher jep\.gradle\caches\transforms-2\files-2.1\7635006dc45459eda0382eab7b89e181\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Christopher jep\.gradle\caches\transforms-2\files-2.1\5eeade8e594d6a866f509fb626e07717\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Christopher jep\.gradle\caches\transforms-2\files-2.1\a1306dc10ae39a1c821e1f6bc17b3088\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Christopher jep\.gradle\caches\transforms-2\files-2.1\200c2110e5fffc3032a3e29547f4ccb1\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Christopher jep\AndroidStudioProjects\HealthIsWealthApp\app\src\main\AndroidManifest.xml:3:1-24:12
+INJECTED from C:\Users\Christopher jep\AndroidStudioProjects\HealthIsWealthApp\app\src\main\AndroidManifest.xml:3:1-24:12
+INJECTED from C:\Users\Christopher jep\AndroidStudioProjects\HealthIsWealthApp\app\src\main\AndroidManifest.xml:3:1-24:12
+	package
+		ADDED from C:\Users\Christopher jep\AndroidStudioProjects\HealthIsWealthApp\app\src\main\AndroidManifest.xml:4:5-61
+		INJECTED from C:\Users\Christopher jep\AndroidStudioProjects\HealthIsWealthApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Christopher jep\AndroidStudioProjects\HealthIsWealthApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Christopher jep\AndroidStudioProjects\HealthIsWealthApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Christopher jep\AndroidStudioProjects\HealthIsWealthApp\app\src\main\AndroidManifest.xml:3:1-24:12
+		INJECTED from C:\Users\Christopher jep\AndroidStudioProjects\HealthIsWealthApp\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Christopher jep\AndroidStudioProjects\HealthIsWealthApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Christopher jep\AndroidStudioProjects\HealthIsWealthApp\app\src\main\AndroidManifest.xml:3:1-24:12
+		INJECTED from C:\Users\Christopher jep\AndroidStudioProjects\HealthIsWealthApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Christopher jep\AndroidStudioProjects\HealthIsWealthApp\app\src\main\AndroidManifest.xml:3:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Christopher jep\AndroidStudioProjects\HealthIsWealthApp\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\Christopher jep\AndroidStudioProjects\HealthIsWealthApp\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Christopher jep\AndroidStudioProjects\HealthIsWealthApp\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from C:\Users\Christopher jep\AndroidStudioProjects\HealthIsWealthApp\app\src\main\AndroidManifest.xml:6:22-76
+application
+ADDED from C:\Users\Christopher jep\AndroidStudioProjects\HealthIsWealthApp\app\src\main\AndroidManifest.xml:7:5-22:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Christopher jep\.gradle\caches\transforms-2\files-2.1\3d8f00a9d124d8e5ac0ec9a5cadc649f\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Christopher jep\.gradle\caches\transforms-2\files-2.1\3d8f00a9d124d8e5ac0ec9a5cadc649f\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Christopher jep\.gradle\caches\transforms-2\files-2.1\58a195df22d2d4d06cd8e6e3e2513807\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Christopher jep\.gradle\caches\transforms-2\files-2.1\58a195df22d2d4d06cd8e6e3e2513807\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Christopher jep\.gradle\caches\transforms-2\files-2.1\5d7a17c4ca4e3124d7d7da93ee4d21e1\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Christopher jep\.gradle\caches\transforms-2\files-2.1\5d7a17c4ca4e3124d7d7da93ee4d21e1\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Christopher jep\.gradle\caches\transforms-2\files-2.1\58a195df22d2d4d06cd8e6e3e2513807\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from C:\Users\Christopher jep\AndroidStudioProjects\HealthIsWealthApp\app\src\main\AndroidManifest.xml:10:9-41
+	android:icon
+		ADDED from C:\Users\Christopher jep\AndroidStudioProjects\HealthIsWealthApp\app\src\main\AndroidManifest.xml:9:9-45
+	android:allowBackup
+		ADDED from C:\Users\Christopher jep\AndroidStudioProjects\HealthIsWealthApp\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from C:\Users\Christopher jep\AndroidStudioProjects\HealthIsWealthApp\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.ojepachristopher.healthiswealthapp.MainActivity
+ADDED from C:\Users\Christopher jep\AndroidStudioProjects\HealthIsWealthApp\app\src\main\AndroidManifest.xml:13:9-21:20
+	android:label
+		ADDED from C:\Users\Christopher jep\AndroidStudioProjects\HealthIsWealthApp\app\src\main\AndroidManifest.xml:15:13-45
+	android:name
+		ADDED from C:\Users\Christopher jep\AndroidStudioProjects\HealthIsWealthApp\app\src\main\AndroidManifest.xml:14:13-87
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Christopher jep\AndroidStudioProjects\HealthIsWealthApp\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Christopher jep\AndroidStudioProjects\HealthIsWealthApp\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from C:\Users\Christopher jep\AndroidStudioProjects\HealthIsWealthApp\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Christopher jep\AndroidStudioProjects\HealthIsWealthApp\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from C:\Users\Christopher jep\AndroidStudioProjects\HealthIsWealthApp\app\src\main\AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from C:\Users\Christopher jep\AndroidStudioProjects\HealthIsWealthApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Christopher jep\AndroidStudioProjects\HealthIsWealthApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Christopher jep\AndroidStudioProjects\HealthIsWealthApp\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Christopher jep\.gradle\caches\transforms-2\files-2.1\480c7beebd550a1c7f079bf434d91063\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Christopher jep\.gradle\caches\transforms-2\files-2.1\480c7beebd550a1c7f079bf434d91063\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Christopher jep\.gradle\caches\transforms-2\files-2.1\3d8f00a9d124d8e5ac0ec9a5cadc649f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Christopher jep\.gradle\caches\transforms-2\files-2.1\3d8f00a9d124d8e5ac0ec9a5cadc649f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Christopher jep\.gradle\caches\transforms-2\files-2.1\0c411d87b0acca8b71ef0d95cdd15819\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Christopher jep\.gradle\caches\transforms-2\files-2.1\0c411d87b0acca8b71ef0d95cdd15819\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Christopher jep\.gradle\caches\transforms-2\files-2.1\b4f8d52abc31889d8f86d94c93ac2c36\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Christopher jep\.gradle\caches\transforms-2\files-2.1\b4f8d52abc31889d8f86d94c93ac2c36\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Christopher jep\.gradle\caches\transforms-2\files-2.1\2b3f7e4f5c87d046dc278524fefc8d6b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Christopher jep\.gradle\caches\transforms-2\files-2.1\2b3f7e4f5c87d046dc278524fefc8d6b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Christopher jep\.gradle\caches\transforms-2\files-2.1\bf82249fa7c28888ee258e1565c8c4fb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Christopher jep\.gradle\caches\transforms-2\files-2.1\bf82249fa7c28888ee258e1565c8c4fb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Christopher jep\.gradle\caches\transforms-2\files-2.1\5bba0161ee47d0f87eb8f61316b178f3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Christopher jep\.gradle\caches\transforms-2\files-2.1\5bba0161ee47d0f87eb8f61316b178f3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Christopher jep\.gradle\caches\transforms-2\files-2.1\8160680efb218ba6bef3bea305bc1b26\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Christopher jep\.gradle\caches\transforms-2\files-2.1\8160680efb218ba6bef3bea305bc1b26\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Christopher jep\.gradle\caches\transforms-2\files-2.1\7d818d5d3dc70baeb72b4b061e11106c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Christopher jep\.gradle\caches\transforms-2\files-2.1\7d818d5d3dc70baeb72b4b061e11106c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Christopher jep\.gradle\caches\transforms-2\files-2.1\0da0c58730fdd56799108fe7cb1c0cdb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Christopher jep\.gradle\caches\transforms-2\files-2.1\0da0c58730fdd56799108fe7cb1c0cdb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Christopher jep\.gradle\caches\transforms-2\files-2.1\d93c5cb74ad3ea4072a90c3fc6d20532\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Christopher jep\.gradle\caches\transforms-2\files-2.1\d93c5cb74ad3ea4072a90c3fc6d20532\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Christopher jep\.gradle\caches\transforms-2\files-2.1\34be722f30676ca3c4918ef050401711\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Christopher jep\.gradle\caches\transforms-2\files-2.1\34be722f30676ca3c4918ef050401711\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Christopher jep\.gradle\caches\transforms-2\files-2.1\8a375e62e23ef40a2ed62154541a0045\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Christopher jep\.gradle\caches\transforms-2\files-2.1\8a375e62e23ef40a2ed62154541a0045\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Christopher jep\.gradle\caches\transforms-2\files-2.1\1005e0e21953cd0b29124c98fb843646\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Christopher jep\.gradle\caches\transforms-2\files-2.1\1005e0e21953cd0b29124c98fb843646\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Christopher jep\.gradle\caches\transforms-2\files-2.1\a447280f5824f9e6dbd91c2d8d559f96\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Christopher jep\.gradle\caches\transforms-2\files-2.1\a447280f5824f9e6dbd91c2d8d559f96\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Christopher jep\.gradle\caches\transforms-2\files-2.1\58a195df22d2d4d06cd8e6e3e2513807\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Christopher jep\.gradle\caches\transforms-2\files-2.1\58a195df22d2d4d06cd8e6e3e2513807\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Christopher jep\.gradle\caches\transforms-2\files-2.1\5d7a17c4ca4e3124d7d7da93ee4d21e1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Christopher jep\.gradle\caches\transforms-2\files-2.1\5d7a17c4ca4e3124d7d7da93ee4d21e1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Christopher jep\.gradle\caches\transforms-2\files-2.1\7e3370abdb552af66e47e30308ee9b76\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Christopher jep\.gradle\caches\transforms-2\files-2.1\7e3370abdb552af66e47e30308ee9b76\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Christopher jep\.gradle\caches\transforms-2\files-2.1\19f81819489522ec92e6bc82dc98098e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Christopher jep\.gradle\caches\transforms-2\files-2.1\19f81819489522ec92e6bc82dc98098e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Christopher jep\.gradle\caches\transforms-2\files-2.1\1e0dddfe571a7e2f56c8867ef452c688\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Christopher jep\.gradle\caches\transforms-2\files-2.1\1e0dddfe571a7e2f56c8867ef452c688\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Christopher jep\.gradle\caches\transforms-2\files-2.1\4aa4416c2268c1945fec6a91a2c8941b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Christopher jep\.gradle\caches\transforms-2\files-2.1\4aa4416c2268c1945fec6a91a2c8941b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Christopher jep\.gradle\caches\transforms-2\files-2.1\a2745d8f73ec886e487d7f5a2569175d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Christopher jep\.gradle\caches\transforms-2\files-2.1\a2745d8f73ec886e487d7f5a2569175d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Christopher jep\.gradle\caches\transforms-2\files-2.1\3aa6a5e944fe764c52f189c41e6431e4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Christopher jep\.gradle\caches\transforms-2\files-2.1\3aa6a5e944fe764c52f189c41e6431e4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Christopher jep\.gradle\caches\transforms-2\files-2.1\7635006dc45459eda0382eab7b89e181\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Christopher jep\.gradle\caches\transforms-2\files-2.1\7635006dc45459eda0382eab7b89e181\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Christopher jep\.gradle\caches\transforms-2\files-2.1\5eeade8e594d6a866f509fb626e07717\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Christopher jep\.gradle\caches\transforms-2\files-2.1\5eeade8e594d6a866f509fb626e07717\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Christopher jep\.gradle\caches\transforms-2\files-2.1\a1306dc10ae39a1c821e1f6bc17b3088\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Christopher jep\.gradle\caches\transforms-2\files-2.1\a1306dc10ae39a1c821e1f6bc17b3088\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Christopher jep\.gradle\caches\transforms-2\files-2.1\200c2110e5fffc3032a3e29547f4ccb1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Christopher jep\.gradle\caches\transforms-2\files-2.1\200c2110e5fffc3032a3e29547f4ccb1\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Christopher jep\AndroidStudioProjects\HealthIsWealthApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Christopher jep\AndroidStudioProjects\HealthIsWealthApp\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Christopher jep\AndroidStudioProjects\HealthIsWealthApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Christopher jep\AndroidStudioProjects\HealthIsWealthApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Christopher jep\AndroidStudioProjects\HealthIsWealthApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Christopher jep\AndroidStudioProjects\HealthIsWealthApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Christopher jep\AndroidStudioProjects\HealthIsWealthApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Christopher jep\AndroidStudioProjects\HealthIsWealthApp\app\src\main\AndroidManifest.xml
